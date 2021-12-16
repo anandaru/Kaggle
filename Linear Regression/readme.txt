@@ -1,3 +1,5 @@
+The below use case for used-car price and age is used to demonstrate modeling a Simple Linear Regression fit to predict price based on age using Python 
+
 #Table shows the age in years and the retail value in thousands of dollars of a random sample of ten automobiles of the same make and model.
 #Construct the scatter diagram in matplotlib and seaborn.
 #Compute the linear correlation coefficient r. Interpret its value in the context of the problem.
