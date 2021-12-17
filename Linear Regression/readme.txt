@@ -9,4 +9,7 @@ The below use case for used-car price and age is used to demonstrate modeling a 
 #Suppose a 20-year-old automobile of this make and model is selected at random. Use the regression equation to predict its retail value. Interpret the result.
 #Comment on the validity of using the regression equation to predict the price of a brand new automobile of this make and model.
 #predict the values as per regression line and add in new column to dataframe 
+#Evaluate the regression model (MAE, MSE, RMSE)
+#Run a polynomial transformation. Add to dataframe. Plot the graph.
+#Evaluate the new model (MAE, MSE, RMSE) and analyze if its a better fit compared to linear regression.
 #save dataframe to new csv
