@@ -1,2 +1,2 @@
-# Datascience
-Data science code
+# Kaggle submissions
+
